@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "C7341A00-0ED2-45A0-9B53-51475375E85C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 264,
+    "x": 0,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3EC50183-9DD9-41E3-970F-D2DA96C89CA0"
+    },
+    {
+      "class": "text",
+      "id": "4517C329-81B3-4D95-B011-49F4FA57EA2A"
+    },
+    {
+      "class": "text",
+      "id": "A8978180-E941-4AB0-9126-05BD29C24BDB"
+    },
+    {
+      "class": "text",
+      "id": "DDCA86B4-2216-4B08-96B9-4DAFB354C8E9"
+    },
+    {
+      "class": "text",
+      "id": "F43939DB-6CA8-4487-8F8D-10A3E2C4A94A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8931BEE3-7FF6-4103-98A7-674B09E79687"
+    }
+  ],
+  "name": "Master specialized",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "DA1F9DE7-9875-49BC-A6E3-8E3B772073D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 365,
+    "x": 0,
+    "y": 136
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "942B21B0-F5DC-4C61-9048-D1440C9D2588"
+    },
+    {
+      "class": "text",
+      "id": "BADA8617-DEF5-4600-B532-4E398CF1CA79"
+    },
+    {
+      "class": "text",
+      "id": "522F809F-F729-4F87-AF36-3FC82DCA158F"
+    },
+    {
+      "class": "text",
+      "id": "177D7256-BDF6-468C-9425-D209C3021002"
+    },
+    {
+      "class": "text",
+      "id": "89C68FA8-7BF2-436D-8323-9EDA14DC0C3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "797E0361-EE3B-4BBC-8C73-5081CD471613"
+    }
+  ],
+  "name": "Master of Science",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

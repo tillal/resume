@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "D427208A-DB06-4094-94A8-1AE27B3FA1CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 546,
+    "x": 0,
+    "y": 371
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0E883E1B-3039-400A-87BC-6B00DEC91706"
+    },
+    {
+      "class": "text",
+      "id": "8B97238F-F4A3-424F-96B5-ED5A3A5B42B7"
+    },
+    {
+      "class": "text",
+      "id": "9C31E439-10E1-4A3D-B757-0D4D2C2A7CAD"
+    },
+    {
+      "class": "text",
+      "id": "873525A7-7671-4946-B917-0A11EE684BB7"
+    },
+    {
+      "class": "text",
+      "id": "F22094AB-B7DD-49C2-91BE-45079CE9E398"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B0678E7-338C-4556-9D35-32550E95E071"
+    }
+  ],
+  "name": "Gwynnie Bee",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

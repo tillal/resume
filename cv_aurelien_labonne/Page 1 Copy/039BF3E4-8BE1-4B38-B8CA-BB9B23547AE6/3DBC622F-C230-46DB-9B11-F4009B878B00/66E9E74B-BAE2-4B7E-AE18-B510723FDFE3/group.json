@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "66E9E74B-BAE2-4B7E-AE18-B510723FDFE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 59,
+    "width": 517,
+    "x": 0,
+    "y": 332
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "865451E2-D8D9-4A6F-841A-820FC2A393A5"
+    },
+    {
+      "class": "text",
+      "id": "C8848117-3848-490C-9AF8-64FF00BA4DD8"
+    },
+    {
+      "class": "text",
+      "id": "5D5958C1-FF9E-471B-AE08-5AEA6494EA61"
+    },
+    {
+      "class": "text",
+      "id": "DE0B64DD-8DA2-4702-81A6-CF1E9F4C4DE8"
+    },
+    {
+      "class": "text",
+      "id": "FFAD34F6-219C-497A-9B21-EC98C192623A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DA57517-74BB-4B36-9EE0-D5D8FF1C4C40"
+    }
+  ],
+  "name": "alabconsultancy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
