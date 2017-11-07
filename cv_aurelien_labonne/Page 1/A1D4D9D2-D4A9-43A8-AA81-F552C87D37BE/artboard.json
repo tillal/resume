@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "A1D4D9D2-D4A9-43A8-AA81-F552C87D37BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 842,
+    "width": 595,
+    "x": 1521,
+    "y": 114
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      18,
+      574,
+      415,
+      128
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6EA54092-968C-4738-9D30-0250DF40ED31"
+    },
+    {
+      "class": "group",
+      "id": "064FDE29-CE81-43F2-A3EE-1C8E0635C8F7"
+    },
+    {
+      "class": "group",
+      "id": "79C8BBE2-F464-4FF3-86F7-44048395DFAE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FBB7CBF4-3138-474B-9890-337F176C987C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDC03A23-C071-4945-9082-B77D90BF253E"
+    },
+    {
+      "class": "group",
+      "id": "60F507D8-886F-4A9B-B177-679CBE6E48B0"
+    },
+    {
+      "class": "group",
+      "id": "0361C861-0173-4EA8-A577-88BDCC2D3DD7"
+    },
+    {
+      "class": "group",
+      "id": "C3B21D66-74B3-4B30-93FB-FFE37F1B936B"
+    }
+  ],
+  "name": "aurelien_labonne_resume copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      822,
+      659,
+      27
+    ]
+  }
+}

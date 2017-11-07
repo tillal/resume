@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "0361C861-0173-4EA8-A577-88BDCC2D3DD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 179,
+    "width": 365,
+    "x": 20,
+    "y": 648
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A727E0F2-09F9-435C-B2A5-170126C9231C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B41DCA9A-55B0-4665-BC99-120CAF832255"
+    },
+    {
+      "class": "group",
+      "id": "11195DA1-77A4-4BC0-AF90-8ABA28769FCC"
+    },
+    {
+      "class": "group",
+      "id": "7B5C8D1D-175C-4317-977A-0282069F3F13"
+    },
+    {
+      "class": "group",
+      "id": "A5CDAE37-31C6-4063-AD14-216CE3383D46"
+    }
+  ],
+  "name": "Education",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
