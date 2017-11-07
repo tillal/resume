@@ -1,0 +1,125 @@
+{
+  "_class": "group",
+  "do_objectID": "1120A3DA-F918-4191-8BB8-9FFD11FD7979",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 182,
+    "width": 173,
+    "x": 408,
+    "y": 648
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A7656F11-2ADE-4847-9352-126AF32A93EC"
+    },
+    {
+      "class": "text",
+      "id": "756EC017-4070-43D7-B2D7-6A0824E0C6BA"
+    },
+    {
+      "class": "text",
+      "id": "D9D1C27C-22F3-4B78-95A7-9D1025FEC8B8"
+    },
+    {
+      "class": "text",
+      "id": "F34771EE-DE4B-4354-AB4C-C813CD50492C"
+    },
+    {
+      "class": "text",
+      "id": "6C01A610-D012-482C-9DD3-2480A8EEF686"
+    },
+    {
+      "class": "text",
+      "id": "2353CEA2-9F19-45A1-AA52-4BC390DCEF42"
+    },
+    {
+      "class": "text",
+      "id": "B9AE2BFB-D82D-4908-94DF-24E12DADFAA3"
+    },
+    {
+      "class": "text",
+      "id": "75DE76B8-FAEE-4118-8A1D-9822DF9E7583"
+    },
+    {
+      "class": "text",
+      "id": "0660B5D3-7742-4255-B86B-6F02FBD410E4"
+    },
+    {
+      "class": "text",
+      "id": "80B0D4B8-9540-4422-ABAD-843F1A3D0318"
+    },
+    {
+      "class": "group",
+      "id": "C985D45D-839A-4DFE-98CE-EB7E2C0D45A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CDD9912-5C36-4686-88A1-8C2B1532FA39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50C7A751-BA73-4D42-98A9-39467B506567"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD5F1251-DAE3-4405-A086-9B18001B15B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DB42A41-F349-43DE-A7DA-BEDDB8F34315"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB500C1E-4E87-4A14-B853-D089B8E2AB6B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C98E7F51-10B1-4EA4-A7D3-011CC3EC20C3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F8E0A94-F724-404C-A51F-23D819D74167"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F46F0CB-58E6-4C42-A13F-4E89FC5DAAA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0EB7736E-C7C4-4AE6-A8A7-55DB9026C7A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06F4C452-9501-4B4D-B878-CD193C8F9EAE"
+    }
+  ],
+  "name": "Professional Skills",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
